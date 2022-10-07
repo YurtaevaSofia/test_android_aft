@@ -1,0 +1,6 @@
+{
+    "platformName": "Android",
+    "deviceName": "Android Emulator",
+    "app": "/Users/sofia/PycharmProjects/zerion_android_aft/resources/zerion_android.apk",
+    "url": "http://localhost:4723/wd/hub"
+}
